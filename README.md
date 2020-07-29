@@ -22,6 +22,6 @@ Estou apenas começando a estudar desenvolvimento, mas venho da Infra/Redes, vej
 -->
 
 
-[![Blog Badge](https://img.shields.io/badge/Blog-felipefialho.com-black)](https://www.clubedoautista.com.br)
+[![Blog Badge](https://img.shields.io/badge/Clube-Do-Autista-black)](https://www.clubedoautista.com.br)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC7c4AmLm6Qv0EEyP10w_laA)](https://www.youtube.com/channel/UC7c4AmLm6Qv0EEyP10w_laA)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lima-santoss/)](https://www.linkedin.com/in/gustavo-lima-santoss/)
